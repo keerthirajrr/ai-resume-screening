@@ -23,7 +23,7 @@ ai-resume-screening/ │-- app.py # Main Streamlit app
 ## 🚀 Installation & Running the App  
 
 ### **1️⃣ Clone the Repository**  
-```sh
+
 git clone https://github.com/keerthirajrr/ai-resume-screening.git  
 cd ai-resume-screening
 
