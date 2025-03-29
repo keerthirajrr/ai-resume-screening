@@ -34,6 +34,6 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🔥 Future Enhancements
-Improve PDF text extraction with pdfplumber.
-Add a visual ranking chart.
-Enhance keyword extraction with NLP techniques.
+-Improve PDF text extraction with pdfplumber.
+-Add a visual ranking chart.
+-Enhance keyword extraction with NLP techniques.
